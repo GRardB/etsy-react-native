@@ -13,3 +13,5 @@ After that, put your API key in `app/etsy/config.js`.
 If you're reading my code, be warned: it's my first attempt at React Native, and
 one of my first attempts at both React and Redux. Let me know if there are
 better conventions for things I did.
+
+Oh, and also, this is *iOS-only*.
